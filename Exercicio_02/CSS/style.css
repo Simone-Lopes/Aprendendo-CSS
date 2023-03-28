@@ -109,12 +109,8 @@
     flex-direction: column-reverse;
 }
 /* Exercicío C */
-.cor1{
-order: 4;
-}
-.cor2{
-order: 3;
-}
-.cor3{
-order: 2;
+.desafio{
+    display: flex;
+    justify-content: start;
+    flex-direction: row-reverse;
 }
